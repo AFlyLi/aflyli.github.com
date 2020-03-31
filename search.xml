@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>资源网站</title>
+    <url>/2020/03/30/%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p><img src="https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/Unknown-2" alt=""></p>
+<h1 id="多个比较有用的网站"><a href="#多个比较有用的网站" class="headerlink" title="多个比较有用的网站"></a>多个比较有用的网站</h1><a id="more"></a>
+
+<ul>
+<li>电子书网站<br><a href="https://salttiger.com/ios-animations-by-tutorials-5th-edition/" target="_blank" rel="noopener">https://salttiger.com/ios-animations-by-tutorials-5th-edition/</a></li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>iOS面试</title>
+    <url>/2020/03/30/iOS%E9%9D%A2%E8%AF%95/</url>
+    <content><![CDATA[<p><img src="https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/Unknown" alt=""></p>
+<p>iOS面试相关问题</p>
+<a id="more"></a>
+
+<h1 id="iOS面试主要从一下几方面进行总结"><a href="#iOS面试主要从一下几方面进行总结" class="headerlink" title="iOS面试主要从一下几方面进行总结"></a>iOS面试主要从一下几方面进行总结</h1><ul>
+<li>UI视图</li>
+<li>OC语言特性</li>
+<li>Runtime </li>
+<li>内存</li>
+<li>block</li>
+<li>多线程</li>
+<li>RunLoop</li>
+<li>网络</li>
+<li>设计模式</li>
+<li>架构/框架</li>
+<li>算法</li>
+<li>第三方</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>iOS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>解决hexo自定义主题tags和categories不显示的问题</title>
     <url>/2020/03/25/%E8%A7%A3%E5%86%B3hexo%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98tags%E5%92%8Ccategories%E4%B8%8D%E6%98%BE%E7%A4%BA%E7%9A%84%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>默认是没有 categories 和 tags 的需要自己添加</p>

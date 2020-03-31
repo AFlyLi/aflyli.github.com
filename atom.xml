@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>AFlyLi的个人空间</title>
-  <icon>http://yoursite.com/icon.png</icon>
+  
   <subtitle>记录点滴</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-25T13:17:52.618Z</updated>
+  <updated>2020-03-30T12:00:50.730Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>资源网站</title>
+    <link href="http://yoursite.com/2020/03/30/%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99/"/>
+    <id>http://yoursite.com/2020/03/30/%E8%B5%84%E6%BA%90%E7%BD%91%E7%AB%99/</id>
+    <published>2020-03-30T11:53:10.000Z</published>
+    <updated>2020-03-30T12:00:50.730Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/Unknown-2" alt=""></p><h1 id="多个比较有用的网站"><a href="#多个比较有用的网站" class="headerlink" title="多个比较有用的网站"></a>多个比较有用的网站</h1><a id="more"></a><ul><li>电子书网站<br><a href="https://salttiger.com/ios-animations-by-tutorials-5th-edition/" target="_blank" rel="noopener">https://salttiger.com/ios-animations-by-tutorials-5th-edition/</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/Unknown-2&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;多个比较有用的网站&quot;&gt;&lt;a href=&quot;#多个比较有用的网站&quot; class=&quot;headerlink&quot; title=&quot;多个比较有用的网站&quot;&gt;&lt;/a&gt;多个比较有用的网站&lt;/h1&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iOS面试</title>
+    <link href="http://yoursite.com/2020/03/30/iOS%E9%9D%A2%E8%AF%95/"/>
+    <id>http://yoursite.com/2020/03/30/iOS%E9%9D%A2%E8%AF%95/</id>
+    <published>2020-03-30T09:57:06.000Z</published>
+    <updated>2020-03-30T10:09:41.688Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/Unknown" alt=""></p><p>iOS面试相关问题</p><a id="more"></a><h1 id="iOS面试主要从一下几方面进行总结"><a href="#iOS面试主要从一下几方面进行总结" class="headerlink" title="iOS面试主要从一下几方面进行总结"></a>iOS面试主要从一下几方面进行总结</h1><ul><li>UI视图</li><li>OC语言特性</li><li>Runtime </li><li>内存</li><li>block</li><li>多线程</li><li>RunLoop</li><li>网络</li><li>设计模式</li><li>架构/框架</li><li>算法</li><li>第三方</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/Unknown&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;iOS面试相关问题&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="iOS" scheme="http://yoursite.com/tags/iOS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>解决hexo自定义主题tags和categories不显示的问题</title>
     <link href="http://yoursite.com/2020/03/25/%E8%A7%A3%E5%86%B3hexo%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98tags%E5%92%8Ccategories%E4%B8%8D%E6%98%BE%E7%A4%BA%E7%9A%84%E9%97%AE%E9%A2%98/"/>
     <id>http://yoursite.com/2020/03/25/%E8%A7%A3%E5%86%B3hexo%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98tags%E5%92%8Ccategories%E4%B8%8D%E6%98%BE%E7%A4%BA%E7%9A%84%E9%97%AE%E9%A2%98/</id>
     <published>2020-03-25T13:03:57.000Z</published>
     <updated>2020-03-25T13:17:52.618Z</updated>
+    
+    <content type="html"><![CDATA[<p>默认是没有 categories 和 tags 的需要自己添加</p><a id="more"></a><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page &quot;tags&quot;</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page &quot;categories&quot;</span><br></pre></td></tr></table></figure><ul><li>编辑 source/tags/index.md </li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">type: &quot;tags&quot;</span><br><span class="line">layout: &quot;tags&quot;</span><br></pre></td></tr></table></figure><ul><li>编辑 source/categories/index.md</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">type: &quot;categories&quot;</span><br><span class="line">layout: &quot;categories&quot;</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
@@ -44,6 +88,8 @@
     <published>2020-03-25T10:54:12.000Z</published>
     <updated>2020-03-25T11:21:24.086Z</updated>
     
+    <content type="html"><![CDATA[<p><img src="https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/e03cf348101115b3cbd998a2e978ac76.jpg" alt=""><br>node.js的最新稳定版本也频繁变化，你不时会发现，一个模块不能在你当前的Node版本上使用，此时你需要升级Node<br>幸运的是，可以用一种非常简单的方法来管理你的Node版本，即使用Node Binary管理模块“n”。</p><a id="more"></a><ol><li><p>检查 Node的当前版本，使用命令</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></li><li><p>清除npm cache</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo npm cache clean -f</span><br></pre></td></tr></table></figure></li><li><p>安装n模块</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo npm install -g n</span><br></pre></td></tr></table></figure></li><li><p>(1,2)</p><p> •    升级到最新版本（该步骤可能需要花费一些时间）</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo n 0.8.11</span><br></pre></td></tr></table></figure><p> •    或者你也可以告诉管理器，安装最新的稳定版本</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo n stable</span><br></pre></td></tr></table></figure></li><li><p>查看Node的版本，检查升级是否成功</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></li></ol>]]></content>
+    
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;https://gitee.com/lpf811/my_pic_blog/raw/master//Users/lipengfei/frome-github/my_pic_blog/e03cf348101115b3cbd998a2e978ac76.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;node.js的最新稳定版本也频繁变化，你不时会发现，一个模块不能在你当前的Node版本上使用，此时你需要升级Node&lt;br&gt;幸运的是，可以用一种非常简单的方法来管理你的Node版本，即使用Node Binary管理模块“n”。&lt;/p&gt;
@@ -65,15 +111,14 @@
     <published>2020-03-23T11:42:06.000Z</published>
     <updated>2020-03-23T11:45:12.578Z</updated>
     
+    <content type="html"><![CDATA[<p>block是系统对函数及其上下文封装起来的对象.</p><h2 id="block的结构"><a href="#block的结构" class="headerlink" title="#block的结构"></a>#block的结构</h2>]]></content>
+    
     <summary type="html">
     
       
       
-        
-        
-          &lt;p&gt;block是系统对函数及其上下文封装起来的对象.&lt;/p&gt;
-&lt;h2 id=&quot;block的结构&quot;&gt;&lt;a href=&quot;#block的结构&quot; class=&quot;headerlink&quot;
-        
+        &lt;p&gt;block是系统对函数及其上下文封装起来的对象.&lt;/p&gt;
+&lt;h2 id=&quot;block的结构&quot;&gt;&lt;a href=&quot;#block的结构&quot; class=&quot;headerlink&quot; title=&quot;#block的结构&quot;&gt;&lt;/a&gt;#block的结构&lt;/h2&gt;
       
     
     </summary>
@@ -88,6 +133,8 @@
     <id>http://yoursite.com/2020/03/23/hello-world/</id>
     <published>2020-03-23T10:36:32.987Z</published>
     <updated>2020-03-23T12:43:11.347Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
